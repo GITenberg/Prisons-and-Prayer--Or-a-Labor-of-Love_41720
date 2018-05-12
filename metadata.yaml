@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41325'
     url: http://www.gutenberg.org/2009/agents/41325
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41720#Prisons-and-Prayer--Or-a-Labor-of-Love
 gutenberg_issued: '2012-12-28'
 gutenberg_type: Text
 identifiers:

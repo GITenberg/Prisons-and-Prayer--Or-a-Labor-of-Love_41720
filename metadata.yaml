@@ -1,0 +1,27 @@
+_repo: Prisons-and-Prayer--Or-a-Labor-of-Love_41720
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41720-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Wheaton, Elizabeth Ryder
+    birthdate: 1844
+    gutenberg_agent_id: '41325'
+    url: http://www.gutenberg.org/2009/agents/41325
+description: ''
+gutenberg_issued: '2012-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41720'
+  lccn: '06023550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisons'
+- !lcc 'HV'
+- !lcsh 'Evangelistic work'
+title: Prisons and Prayer; Or, a Labor of Love
+url: http://www.gutenberg.org/ebooks/41720
